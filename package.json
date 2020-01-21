@@ -1,0 +1,27 @@
+{
+  "name": "react-hook-use-window-dimensions",
+  "version": "1.0.0",
+  "description": "Get Browser Window Dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashDot/react-hook-use-window-dimensions.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "window"
+  ],
+  "author": "Lars Hampe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashDot/react-hook-use-window-dimensions/issues"
+  },
+  "homepage": "https://github.com/HashDot/react-hook-use-window-dimensions#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
